@@ -7,3 +7,5 @@ RENCANA KONTEN
 - PHP frameworks
   ^ Laravel
 - Interview
+- Vlogs
+- Python
