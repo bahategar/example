@@ -3,6 +3,7 @@ RENCANA KONTEN
   * ES6
   * Framework JavaScript
     ^ Vue
+    ^ React
 - PHP frameworks
    ^ Laravel
 - Interview
