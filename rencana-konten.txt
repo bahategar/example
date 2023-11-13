@@ -2,6 +2,8 @@ RENCANA KONTEN
 - JavaScript
   * ES6
   * Framework JavaScript
+    ^ Angular
+    ^ React
 - PHP frameworks
+  ^ Laravel
 - Interview
-- Vlogs
